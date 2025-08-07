@@ -54,10 +54,29 @@ This repository contains a structured collection of **Statistics assignments** c
 
 ### 📂 Repository Structure
 
-```bash
 Statistics-Assignment-PW/
 │
 ├── Statistics_Basics_Assignment.ipynb       # Basics of Statistics
 ├── Statistics_Advance_1.ipynb               # Distributions & Hypothesis Testing
 ├── Statistics Advance 2.ipynb               # ANOVA, Chi-Square, F-Test, T-Test
 └── README.md                                # You're here!
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/abhijeetroy9" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/itsabhi.jeet" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+🌟 **If You Like It...**  
+Give this repo a ⭐
+
+Follow me on GitHub for more Python and Data Analytics / Data Science content: [@atlassandx90](https://github.com/atlassandx90)
